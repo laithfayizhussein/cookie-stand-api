@@ -6,7 +6,9 @@ ENV/
 .idea
 .DS_Store
 .history
-
+*.THings
+*.things
+doc/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -120,3 +122,6 @@ node_modules/
 
 # poetry
 poetry.lock
+application/cache
+Things/cache
+cookie_stands/cache
